@@ -1,16 +1,4 @@
 {
-    "name": "My Example Source",
-    "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://i.link1.pw/uploads/63e7015d43587e6625ad3b9b5896112e.jpeg",
-    "headerURL": "https://splitgdps.alwaysdata.net/splitbg.png",
-    "website": "https://splitgdps.com",
-    "patreonURL": "https://www.patreon.com/cw/example",
-    "tintColor": "#4185A9",
-    "featuredApps": [
-        "com.frigid77.splitgdpsx",
-        "com.frigid77.splitgdpsx"
-    ],
   "apps": [
     {
       "beta": false,
@@ -33,7 +21,7 @@
       "versionDescription": "Welcome SplitGDPS to the frigidash's source!"
     }
   ],
-  "identifier": "com.example.source",
+  "identifier": "com.gdps.source",
   "name": "Frigidash's GDPS source",
   "news": [],
   "userInfo": {}
