@@ -1,0 +1,41 @@
+{
+    "name": "My Example Source",
+    "subtitle": "All my apps in one place.",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://i.link1.pw/uploads/63e7015d43587e6625ad3b9b5896112e.jpeg",
+    "headerURL": "https://splitgdps.alwaysdata.net/splitbg.png",
+    "website": "https://splitgdps.com",
+    "patreonURL": "https://www.patreon.com/cw/example",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.frigid77.splitgdpsx",
+        "com.frigid77.splitgdpsx"
+    ],
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.frigid77.splitgdpsx",
+      "developerName": "Frigidash",
+      "downloadURL": "https://www.dropbox.com/scl/fi/510o7u8booluzo7rkai96/SplitDashers.ipa?rlkey=4xq5gijdy4oigrquo3ry6y7gg&st=vuoyxy3q&dl=1",
+      "iconURL": "https://i.link1.pw/uploads/ed086e913a5d93e92202dbfbb6cefae6.png",
+      "localizedDescription": "What if Geometry Dash had teams?\nI also had that question, so I decided to start an experiment. When you join the server, you are assigned to a random team. Each month, leaderboards are updated. After 4 months, the team with the most total points wins!",
+      "name": "SplitGDPS",
+      "screenshotURLs": [
+        "https://media.discordapp.net/attachments/1485814249635975299/1531702557599203500/IMG_4228.jpg?ex=6a6a2cab&is=6a68db2b&hm=a50cfe1fc4d2cce0ff9e2d8fcdb51f60dce679e0329b097f44928eb2c414f5d2&=&format=webp&width=2576&height=1190",
+        "https://media.discordapp.net/attachments/1485814249635975299/1531702556366077993/IMG_4227.jpg?ex=6a6a2cab&is=6a68db2b&hm=b6d1d74edeb6e9924c1bb844833d11ef72c0ac5c07e870c4096db2c96de2e1d4&=&format=webp&width=2576&height=1190",
+        "https://media.discordapp.net/attachments/1485814249635975299/1531702555216711822/IMG_4226.jpg?ex=6a6a2caa&is=6a68db2a&hm=8193506e723870d43a82e8cb20f7c312d5f1dbea060c0b7a5a8960d605ac94a1&=&format=webp&width=2576&height=1190"
+      ],
+      "size": 141000000,
+      "subtitle": "A GDPS with a competitive twist.",
+      "tintColor": "#1c1c1c",
+      "version": "1.3b2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Welcome SplitGDPS to the frigidash's source!"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Frigidash's GDPS source",
+  "news": [],
+  "userInfo": {}
+}
