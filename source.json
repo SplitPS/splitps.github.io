@@ -12,6 +12,34 @@
   ],
   "apps": [
     {
+      "name": "SilvrPS",
+      "bundleIdentifier": "com.silverra.silvrps",
+      "marketplaceID": "",
+      "developerName": "Silverra",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://silverragdps.mathieuar.fr/files/SilvrPSLogo.png",
+      "tintColor": "#fcde0f",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://silverragdps.mathieuar.fr/files/download/SilvrPS.ipa",
+          "size": 47800000,
+          "version": "2.01",
+          "buildVersion": "2.0.1",
+          "date": "2026-07-29T04:22:00+07:00",
+          "localizedDescription": "The 2.0 era, kept alive.",
+          "minOSVersion": "5.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "VoidGDPS",
       "bundleIdentifier": "com.robtop.geometryjump",
       "marketplaceID": "",
@@ -24,12 +52,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://void.gcs.skin/dashboard/download/voidgdps.ipa",
-          "size": 154700000,
           "version": "2.207",
-          "buildVersion": "2.2.0.7",
           "date": "2026-07-29T03:25:00-04:00",
           "localizedDescription": "VoidGDPS",
+          "downloadURL": "https://void.gcs.skin/dashboard/download/voidgdps.ipa",
+          "size": 154700000,
+          "buildVersion": "2.2.0.7",
           "minOSVersion": "7.0"
         }
       ],
@@ -52,12 +80,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://www.dropbox.com/scl/fi/dxearnmdismfmtjii4ben/AeroDash.ipa?rlkey=pa51rvnytfs7tznqfetfz8oyt&st=crwnz5vr&dl=1",
-          "size": 161100000,
           "version": "2.208",
-          "buildVersion": "2.2.0.8",
           "date": "2026-07-29T03:17:00-04:00",
           "localizedDescription": "",
+          "downloadURL": "https://www.dropbox.com/scl/fi/dxearnmdismfmtjii4ben/AeroDash.ipa?rlkey=pa51rvnytfs7tznqfetfz8oyt&st=crwnz5vr&dl=1",
+          "size": 161100000,
+          "buildVersion": "2.2.0.8",
           "minOSVersion": "7.0"
         }
       ],
@@ -80,12 +108,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://rytlock.141412.xyz/api/public/dl/hImR9TpY/Dinde2208.ipa",
-          "size": 155100000,
           "version": "2.208",
-          "buildVersion": "2.2.0.8",
           "date": "2026-07-29T03:13:00-04:00",
           "localizedDescription": "DindeGDPS, ready for you and tomorrow",
+          "downloadURL": "https://rytlock.141412.xyz/api/public/dl/hImR9TpY/Dinde2208.ipa",
+          "size": 155100000,
+          "buildVersion": "2.2.0.8",
           "minOSVersion": "7.0"
         }
       ],
@@ -108,12 +136,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://ios.ftp.sh/sign/DindeGDPS-21.ipa",
-          "size": 80700000,
           "version": "2.11",
-          "buildVersion": "2.1.1",
           "date": "2026-07-29T03:10:00-04:00",
           "localizedDescription": "DindeGDPS, ready for you and tomorrow",
+          "downloadURL": "https://ios.ftp.sh/sign/DindeGDPS-21.ipa",
+          "size": 80700000,
+          "buildVersion": "2.1.1",
           "minOSVersion": "7.0"
         }
       ],
