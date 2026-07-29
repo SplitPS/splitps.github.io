@@ -19,7 +19,7 @@
       "localizedDescription": "What if Geometry Dash had teams?\nI also had that question, so I decided to start an experiment. When you join the server, you are assigned to a random team. Each month, leaderboards are updated. After 4 months, the team with the most total points wins!",
       "iconURL": "https://i.link1.pw/uploads/ed086e913a5d93e92202dbfbb6cefae6.png",
       "tintColor": "#08c408",
-      "category": "other",
+      "category": "games",
       "screenshots": [
         {
           "imageURL": "https://media.discordapp.net/attachments/1485814249635975299/1531702557599203500/IMG_4228.jpg?ex=6a6a2cab&is=6a68db2b&hm=a50cfe1fc4d2cce0ff9e2d8fcdb51f60dce679e0329b097f44928eb2c414f5d2&=&format=webp&width=2576&height=1190",
@@ -40,11 +40,11 @@
       "versions": [
         {
           "version": "2.208",
-          "date": "2026-07-29T01:31:00-04:00",
+          "date": "2026-07-29T05:31:00-04:00",
           "localizedDescription": "Welcome SplitGDPS to the source!",
           "downloadURL": "https://www.dropbox.com/scl/fi/510o7u8booluzo7rkai96/SplitDashers.ipa?rlkey=4xq5gijdy4oigrquo3ry6y7gg&st=vuoyxy3q&dl=1",
           "size": 147900000,
-          "buildVersion": "2.208",
+          "buildVersion": "2.2.0.8.0",
           "minOSVersion": "12.0"
         }
       ],
