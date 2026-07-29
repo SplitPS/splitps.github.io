@@ -1,7 +1,7 @@
 {
   "name": "Frigidash's GDPS source",
   "subtitle": "A source for GDPSes!",
-  "description": "Here you can find sources for GDPSes, if you would like to submit a GDPS, please go to https://discord.gg/bXXWt5utAr",
+  "description": "Here you can find sources for GDPSes, if you would like to submit a GDPS, please go to https://discord.gg/CSYXbPVYm6",
   "iconURL": "https://i.link1.pw/uploads/63e7015d43587e6625ad3b9b5896112e.jpeg",
   "website": "https://splitgdps.com",
   "patreonURL": "https://splitgdps.com/i-do-not-have-a-patreon-but-if-i-leave-this-blank-sidestore-will-shit-itself",
@@ -14,7 +14,7 @@
     {
       "name": "SilvrPS",
       "bundleIdentifier": "com.silverra.silvrps",
-      "marketplaceID": "",
+
       "developerName": "Silverra",
       "subtitle": "",
       "localizedDescription": "",
@@ -42,7 +42,7 @@
     {
       "name": "VoidGDPS",
       "bundleIdentifier": "com.robtop.geometryjump",
-      "marketplaceID": "",
+
       "developerName": "Scratch",
       "subtitle": "An awesome app.",
       "localizedDescription": "VoidGDPS",
@@ -70,7 +70,7 @@
     {
       "name": "GD Frutiger Aero",
       "bundleIdentifier": "com.frigid.dan1eum.frut",
-      "marketplaceID": "",
+
       "developerName": "dan1eum",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -98,7 +98,7 @@
     {
       "name": "DindeGDPS 2.2",
       "bundleIdentifier": "be.dimisaio.dindegdps22",
-      "marketplaceID": "",
+
       "developerName": "DimisAIO",
       "subtitle": "Ready for you and tomorrow",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -126,7 +126,7 @@
     {
       "name": "DindeGDPS 2.1",
       "bundleIdentifier": "com.dimisaio.dindegdps",
-      "marketplaceID": "",
+
       "developerName": "DimisAIO",
       "subtitle": "Ready for you and tomorrow",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -157,7 +157,7 @@
     {
       "name": "SplitGDPS 2.1",
       "bundleIdentifier": "com.frigid77.splitgd21",
-      "marketplaceID": "",
+
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "SplitGDPS but 2.1",
@@ -188,7 +188,7 @@
     {
       "name": "SplitDash",
       "bundleIdentifier": "com.frigid77.splitgdpsx",
-      "marketplaceID": "",
+
       "developerName": "Frigidash & Tails1154",
       "subtitle": "A GDPS with a competitive twist...",
       "localizedDescription": "What if Geometry Dash had teams?\nI also had that question, so I decided to start an experiment. When you join the server, you are assigned to a random team. Each month, leaderboards are updated. After 4 months, the team with the most total points wins!",
