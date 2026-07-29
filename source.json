@@ -7,9 +7,41 @@
   "patreonURL": "https://splitgdps.com/i-do-not-have-a-patreon-but-if-i-leave-this-blank-sidestore-will-shit-itself",
   "tintColor": "#292929",
   "featuredApps": [
-    "com.frigid77.splitgdpsx"
+    "com.frigid77.splitgdpsx",
+    "com.frigid77.splitgd21"
   ],
   "apps": [
+    {
+      "name": "SplitGDPS 2.1",
+      "bundleIdentifier": "com.frigid77.splitgd21",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.link1.pw/uploads/19e4878dea2781b047c99800ecb66831.png",
+      "tintColor": "#383838",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://www.dropbox.com/scl/fi/wv3t5gwm92xnwtp902n46/Split21.ipa?rlkey=7b2ilck9eraq3kaumhqzgsbsy&st=e2l20pse&dl=1",
+          "size": 85800000,
+          "version": "2.11",
+          "buildVersion": "2.1.1",
+          "date": "2026-07-29T04:47:00-04:00",
+          "localizedDescription": "Welcome SplitGDPS to the Source!",
+          "minOSVersion": "7.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Everyplay requires access to the camera",
+          "NSPhotoLibraryUsageDescription": "Everyplay requires access to the photo library"
+        }
+      },
+      "patreon": {}
+    },
     {
       "name": "SplitDash",
       "bundleIdentifier": "com.frigid77.splitgdpsx",
