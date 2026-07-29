@@ -1,7 +1,7 @@
 {
   "name": "Frigidash's GDPS source",
   "subtitle": "A source for GDPSes!",
-  "description": "Here you can find sources for GDPSes, if you would like to submit a GDPS, please go to https://discord.gg/CSYXbPVYm6",
+  "description": "Here you can find sources for GDPSes, if you would like to submit a GDPS, please go to https://discord.gg/bXXWt5utAr",
   "iconURL": "https://i.link1.pw/uploads/63e7015d43587e6625ad3b9b5896112e.jpeg",
   "website": "https://splitgdps.com",
   "patreonURL": "https://splitgdps.com/i-do-not-have-a-patreon-but-if-i-leave-this-blank-sidestore-will-shit-itself",
@@ -12,24 +12,139 @@
   ],
   "apps": [
     {
+      "name": "VoidGDPS",
+      "bundleIdentifier": "com.robtop.geometryjump",
+      "marketplaceID": "",
+      "developerName": "Scratch",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "VoidGDPS",
+      "iconURL": "https://void.gcs.skin/dashboard/icon.png",
+      "tintColor": "#d600ff",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://void.gcs.skin/dashboard/download/voidgdps.ipa",
+          "size": 154700000,
+          "version": "2.207",
+          "buildVersion": "2.2.0.7",
+          "date": "2026-07-29T03:25:00-04:00",
+          "localizedDescription": "VoidGDPS",
+          "minOSVersion": "7.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "GD Frutiger Aero",
+      "bundleIdentifier": "com.frigid.dan1eum.frut",
+      "marketplaceID": "",
+      "developerName": "dan1eum",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://gdpshub.b-cdn.net/gdps/5578/pfp",
+      "tintColor": "#a9f6ff",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://www.dropbox.com/scl/fi/dxearnmdismfmtjii4ben/AeroDash.ipa?rlkey=pa51rvnytfs7tznqfetfz8oyt&st=crwnz5vr&dl=1",
+          "size": 161100000,
+          "version": "2.208",
+          "buildVersion": "2.2.0.8",
+          "date": "2026-07-29T03:17:00-04:00",
+          "localizedDescription": "",
+          "minOSVersion": "7.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "DindeGDPS 2.2",
+      "bundleIdentifier": "be.dimisaio.dindegdps22",
+      "marketplaceID": "",
+      "developerName": "DimisAIO",
+      "subtitle": "Ready for you and tomorrow",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://gdps.dimisaio.be/database/dashboard/icon.png",
+      "tintColor": "#fc870d",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://rytlock.141412.xyz/api/public/dl/hImR9TpY/Dinde2208.ipa",
+          "size": 155100000,
+          "version": "2.208",
+          "buildVersion": "2.2.0.8",
+          "date": "2026-07-29T03:13:00-04:00",
+          "localizedDescription": "DindeGDPS, ready for you and tomorrow",
+          "minOSVersion": "7.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "DindeGDPS 2.1",
+      "bundleIdentifier": "com.dimisaio.dindegdps",
+      "marketplaceID": "",
+      "developerName": "DimisAIO",
+      "subtitle": "Ready for you and tomorrow",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://gdps.dimisaio.be/database/dashboard/icon.png",
+      "tintColor": "#fc870d",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ios.ftp.sh/sign/DindeGDPS-21.ipa",
+          "size": 80700000,
+          "version": "2.11",
+          "buildVersion": "2.1.1",
+          "date": "2026-07-29T03:10:00-04:00",
+          "localizedDescription": "DindeGDPS, ready for you and tomorrow",
+          "minOSVersion": "7.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Everyplay requires access to the camera",
+          "NSPhotoLibraryUsageDescription": "Everyplay requires access to the photo library"
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "SplitGDPS 2.1",
       "bundleIdentifier": "com.frigid77.splitgd21",
       "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "localizedDescription": "SplitGDPS but 2.1",
       "iconURL": "https://i.link1.pw/uploads/19e4878dea2781b047c99800ecb66831.png",
       "tintColor": "#383838",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://www.dropbox.com/scl/fi/wv3t5gwm92xnwtp902n46/Split21.ipa?rlkey=7b2ilck9eraq3kaumhqzgsbsy&st=e2l20pse&dl=1",
-          "size": 85800000,
           "version": "2.11",
-          "buildVersion": "2.1.1",
           "date": "2026-07-29T04:47:00-04:00",
           "localizedDescription": "Welcome SplitGDPS to the Source!",
+          "downloadURL": "https://www.dropbox.com/scl/fi/wv3t5gwm92xnwtp902n46/Split21.ipa?rlkey=7b2ilck9eraq3kaumhqzgsbsy&st=e2l20pse&dl=1",
+          "size": 85800000,
+          "buildVersion": "2.1.1",
           "minOSVersion": "7.0"
         }
       ],
